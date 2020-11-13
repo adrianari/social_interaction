@@ -3,7 +3,7 @@
 
 ## Dataset
 
-* 27'000 Tweets (unstemmed terms = 14'300) -> 300 base terms were selected that occured in the entire corpus at least 100 times
+* 27'000 Tweets from Trump's Twitter (unstemmed terms = 14'300) -> 300 base terms were selected that occured in the entire corpus at least 100 times
 
 * grouping of tweets by months into 48 tweets corpora --> conversion into network
 
@@ -24,7 +24,7 @@
 * lack of vorrelation between December 2017 and January 2017
   underlying hypothesis: discontinuity due to unanticipated resistance from the judicial and legislatiev branches
 
-* 
+* the well-structured, quasi-linera network of monthly Trump Tweet corpora matches the presidential election campaign's calender stages
 
 
 

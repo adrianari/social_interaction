@@ -4,7 +4,7 @@ import re
 # Datenaufbereitung: Reduzieren der Daten auf die Twitter-Handles
 
 # 1. Daten einlesen
-sample_data = pd.read_csv("data/twitter-test-data.csv", sep=";")
+sample_data = pd.read_csv("twitter-test-data.csv", sep=";")
 
 # 2. Filtern der Zeilen mit Retweets (is_retweet == True)
 retweets = sample_data[sample_data["is_retweet"] == True]

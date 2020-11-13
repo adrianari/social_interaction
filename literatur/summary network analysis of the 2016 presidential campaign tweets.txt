@@ -1,0 +1,30 @@
+# Summary Network Analysis of the 2016 Presidential Campaign Tweets
+
+
+## Dataset
+
+* 27'000 Tweets (unstemmed terms = 14'300) -> 300 base terms were selected that occured in the entire corpus at least 100 times
+
+* grouping of tweets by months into 48 tweets corpora --> conversion into network
+
+* 1 node = monthly corpus
+
+* connection by weighted edge (correlation of the base term frequencies in the corresponding corpora)
+
+
+
+## Network of Tweets
+
+* Louvain community detection algorith
+
+* 4 distinct node clusters (nodes per cluster form a temporal continuum)
+
+* average number of tweets per corpus decreased over time 
+
+* lack of vorrelation between December 2017 and January 2017
+  underlying hypothesis: discontinuity due to unanticipated resistance from the judicial and legislatiev branches
+
+* 
+
+
+

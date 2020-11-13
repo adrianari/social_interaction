@@ -2,7 +2,7 @@ import networkx as nx
 import matplotlib.pyplot as plt
 
 # Erstellen und Zeichnen des Netzwerks:
-network = nx.read_edgelist("data/testdata-graph.txt",
+network = nx.read_edgelist("testdata-graph.txt",
                            delimiter = ' ', 
                            create_using = nx.DiGraph, 
                            nodetype = int)

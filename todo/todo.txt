@@ -43,6 +43,9 @@ A good (quantitative) research question...
   * is relevant
 
 
+# Network:
+What does the network look like: what are the nodes, what are the connections?
+
 
 # Research Design:
 Design how the research question can be answered (strategy, data, methods)

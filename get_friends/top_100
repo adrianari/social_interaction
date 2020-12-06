@@ -1,0 +1,25 @@
+Liste mit den Top-100 geretweeteten Accounts:
+
+Bisher erledigt:
+"realDonaldTrump", "WhiteHouse", "TeamTrump", "GOPChairwoman", "DanScavino", "Jim_Jordan", "GOP", "Scavino45", "DonaldJTrumpJr",
+"IvankaTrump", "GreggJarrett", "EricTrump", "TomFitton", "paulsperry", "RepMarkMeadows", "marklevinshow", "TrumpWarRoom",
+"LindseyGrahamSC", "dbongino", "GOPLeader", "JudicialWatch", "senatemajldr", "foxandfriends",
+"seanhannity", "VP", "SteveScalise", "MZHemingway", "FLOTUS", "LouDobbs", "DailyCaller"
+
+Auf später verschoben (> 10k Friends):
+"charliekirk11"
+"SenateGOP"
+
+Gesamte Liste:
+top100 = ["realDonaldTrump", "WhiteHouse", "TeamTrump", "GOPChairwoman", "DanScavino", "Jim_Jordan", "GOP", "Scavino45", "DonaldJTrumpJr",
+          "IvankaTrump", "GreggJarrett", "EricTrump", "TomFitton", "paulsperry", "RepMarkMeadows", "marklevinshow", "TrumpWarRoom",
+          "LindseyGrahamSC", "charliekirk11", "dbongino", "SenateGOP", "GOPLeader", "JudicialWatch", "senatemajldr", "foxandfriends",
+          "seanhannity", "VP", "SteveScalise", "MZHemingway", "FLOTUS", "LouDobbs", "DailyCaller", "BuckSexton", "RepAndyBiggsAZ", "RepLeeZeldin",
+          "KimStrassel", "Mike_Pence", "MariaBartiromo", "PressSec", "SaraCarterDC", "RepDougCollins", "RepMattGaetz", "NHC_Atlantic",
+          "JohnWHuber", "MarshaBlackburn", "AndrewCMcCarthy", "RandPaul", "IngrahamAngle", "TVNewsHQ", "mike_pence", "jsolomonReports",
+          "CLewandowski_", "parscale", "GOPoversight", "ByronYork", "FoxNews", "GeraldoRivera", "DevinNunes", "BreitbartNews", "SenTomCotton",
+          "dcexaminer", "thebradfordfile", "RNCResearch", "DRUDGE_REPORT", "seanmdav", "JackPosobiec", "CDCgov", "marcorubio", "Lrihendry",
+          "SenTedCruz", "thehill", "PollWatch2020", "OANN", "DavidJHarrisJr", "JennaEllisEsq", "NRA", "Varneyco", "kayleighmcenany", "RudyGiuliani",
+          "hughhewitt", "JesseBWatters", "HouseGOP", "RealJamesWoods", "fema", "KatrinaPierson", "SenJohnBarrasso", "ericbolling", "HawleyMO",
+          "thejtlewis", "TimMurtaugh", "RichardGrenell", "tedcruz", "bennyjohnson", "TheRightMelissa", "KellyannePolls", "SenRonJohnson",
+          "SenThomTillis", "EliseStefanik", "brithume", "ChuckGrassley"]
